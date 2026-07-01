@@ -8,7 +8,7 @@ Este repositorio funciona como una **wiki viva** y como una base de conocimiento
 
 ## 🎯 Objetivo
 
-Centralizar todo el conocimiento del equipo QA en un único lugar - logrando:
+Centralizar todo el conocimiento del equipo QA en un único lugar, logrando:
 
 - 📚 Documentación clara y accesible
 - 🧠 Transferencia de conocimiento entre equipos
