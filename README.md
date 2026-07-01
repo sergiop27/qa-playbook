@@ -15,5 +15,10 @@ Centralizar todo el conocimiento del equipo QA en un único lugar, logrando:
 - 🚀 Onboarding más rápido de nuevos QA
 - ✅ Estandarización de procesos de testing
 - 🤖 Capacidad de interacción mediante IA (preguntas y respuestas sobre cómo trabajamos)
-
+    Agrego varias lineas para ver si hay conflicto
+    1
+    2
+    3
+    4
+    
 ---
